@@ -1,4 +1,4 @@
-# [DataMining] Which book would you recomend?
+# [DataMining] Which book would you recommend?
 
 <p align="center">
 <img src="https://s2982.pcdn.co/wp-content/uploads/2015/12/goodreads-e1457555424780.jpg.optimal.jpg">
